@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class PersamaanKuadrat {
     public static void main(String[] args) {
@@ -11,4 +11,5 @@ public class PersamaanKuadrat {
         System.out.println("c = " + c);
         System.out.println("Hasil : " + hasil);
     }
+
 }
