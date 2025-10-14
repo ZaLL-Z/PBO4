@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class Segitiga {
     public static void main(String[] args) {
@@ -13,4 +13,5 @@ public class Segitiga {
         
     }
  
+
 }
