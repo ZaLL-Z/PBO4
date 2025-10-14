@@ -1,5 +1,5 @@
 
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class KonversiSuhu {
 
@@ -35,3 +35,4 @@ public class KonversiSuhu {
         System.out.println("----------------------------------------------");
     }
 }
+
