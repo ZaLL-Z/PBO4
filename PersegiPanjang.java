@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class PersegiPanjang {
     public static void main(String[] args) {
@@ -7,4 +7,5 @@ public class PersegiPanjang {
         
         System.out.println("Luas Persegi Panjang : " + luasPP + "cm");
     }
+
 }
