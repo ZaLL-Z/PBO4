@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class Increment {
     public static void main(String[] args) {
@@ -20,4 +20,5 @@ public class Increment {
         System.out.println("Hasil Postfix : "+ b);
     }
  
+
 }
