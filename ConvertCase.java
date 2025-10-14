@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class ConvertCase {
     public static void main(String[] args) {
@@ -8,4 +8,5 @@ public class ConvertCase {
         System.out.println(a.toLowerCase());
         System.out.println(a.toUpperCase());
     }
+
 }
