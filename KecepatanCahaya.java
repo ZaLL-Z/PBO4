@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class HitungWaktuCahaya {
 
@@ -20,4 +20,5 @@ public class HitungWaktuCahaya {
         System.out.println("Waktu tempuh dari Matahari ke Bumi: " + waktuMatahariBumiDetik + " detik");
         System.out.println("Atau setara dengan: " + waktuMatahariBumiMenit + " menit");
     }
+
 }
