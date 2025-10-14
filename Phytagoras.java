@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class Pythagoras {
     public static void main(String[] args) {
@@ -11,4 +11,5 @@ public class Pythagoras {
         System.out.println("");
         System.out.println("Nilai Keliling Segitiga : " + (a + b + c));
     }
+
 }
