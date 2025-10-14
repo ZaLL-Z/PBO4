@@ -1,4 +1,4 @@
-package TugasPBO_3_Muhammad_Faizal;
+package TugasPBO_4_Muhammad_Faizal;
 
 public class OperasiMatematika {
     static void Pertambahan(int a, int b){
@@ -20,4 +20,5 @@ public class OperasiMatematika {
 //        Perkalian
         Perkalian(x, y);
     }
+
 }
